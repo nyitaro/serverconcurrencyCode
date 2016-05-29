@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=connect
+comment0.target=Concurrency(java.net.Socket)
+comment1.params=
+comment1.target=void\ run()
+comment2.params=log
+comment2.target=void\ logFile(java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
